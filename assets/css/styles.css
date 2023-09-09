@@ -1,2 +1,60 @@
 
 /* css */
+.flex-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title{
+    font-size: 2.2vw;
+}
+
+.lyrics{
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    font-weight: bold;
+    font-size: 0.65vw;
+    width: 15%
+}
+
+.background{
+    color: #2B2928;
+}
+
+.skin{
+    color: #C99783;
+}
+
+.suit{
+    color: #C28188;
+}
+
+.shirt{
+    color: #FFFFFF;
+}
+
+.tie{
+    color: #646C8B;
+}
+
+.window-outline{
+    color: #82858B;
+}
+
+.sky-blue{
+    color: #8DAAD0;
+}
+
+.sky-white{
+    color: #DCE7F1;
+}
+
+.feet-1{
+    color: #6B4A3B;
+}
+
+.feet-2{
+    color: #6B4A3B;
+}
