@@ -16,7 +16,21 @@
     position: relative;
     font-weight: bold;
     font-size: 0.65vw;
-    width: 15%
+    width: 15%;
+    margin: 0;
+    top: -3.5vw;
+}
+
+.lyrics-bottom{
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    left: -0.75vw;
+    font-weight: bold;
+    font-size: 0.65vw;
+    width: 24%;
+    margin: 0;
+    top: -3.5vw;
 }
 
 .background{
