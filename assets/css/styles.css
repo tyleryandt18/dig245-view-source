@@ -18,7 +18,7 @@
     font-size: 0.65vw;
     width: 15%;
     margin: 0;
-    top: -3.5vw;
+    top: -18vw;
 }
 
 .lyrics-bottom{
@@ -30,11 +30,7 @@
     font-size: 0.65vw;
     width: 24%;
     margin: 0;
-    top: -3.5vw;
-}
-
-.background{
-    color: #2B2928;
+    top: -18vw;
 }
 
 .skin{
@@ -46,7 +42,7 @@
 }
 
 .shirt{
-    color: #FFFFFF;
+    color: #EEEEEE;
 }
 
 .tie{
@@ -63,12 +59,4 @@
 
 .sky-white{
     color: #DCE7F1;
-}
-
-.feet-1{
-    color: #6B4A3B;
-}
-
-.feet-2{
-    color: #6B4A3B;
 }
