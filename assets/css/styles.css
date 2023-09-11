@@ -1,62 +1,59 @@
-
 /* css */
-.flex-container{
+.flex-container {
     display: flex;
     align-items: center;
     justify-content: center;
+    font-size: 0.65vw;
+    font-weight: bold;
 }
 
-.title{
+.title {
     font-size: 2.2vw;
 }
 
-.lyrics{
+.lyrics {
     text-align: center;
     justify-content: center;
     position: relative;
-    font-weight: bold;
-    font-size: 0.65vw;
     width: 15%;
     margin: 0;
     top: -17vw;
 }
 
-.lyrics-bottom{
+.lyrics-bottom {
     text-align: center;
     justify-content: center;
     position: relative;
     left: -0.75vw;
-    font-weight: bold;
-    font-size: 0.65vw;
     width: 24%;
     margin: 0;
     top: -17vw;
 }
 
-.skin{
+.skin {
     color: #C99783;
 }
 
-.suit{
+.suit {
     color: #C28188;
 }
 
-.shirt{
+.shirt {
     color: #EEEEEE;
 }
 
-.tie{
+.tie {
     color: #646C8B;
 }
 
-.window-outline{
+.window-outline {
     color: #82858B;
 }
 
-.sky-blue{
+.sky-blue {
     color: #8DAAD0;
 }
 
-.sky-white{
+.sky-white {
     color: #DCE7F1;
 }
